@@ -15,7 +15,7 @@ Together, they let you fetch price data, identify cointegrated stock pairs, and 
 ### 1. Install requirements
 Make sure you have Python 3.8+ and install dependencies:
 ```bash
-pip install pandas numpy matplotlib seaborn statsmodels yfinance
+pip install -r requirements.txt
 ```
 
 ### 2. Prepare tickers
