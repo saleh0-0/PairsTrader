@@ -1,0 +1,2 @@
+# PairsTrader
+Pairs trading tool
